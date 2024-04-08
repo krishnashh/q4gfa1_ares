@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+  }
+
+.login {
+    margin-left: 20vw;
+}
+
+#screen{
+    background-color:  #F8988B;
+    height: 100vh;
+    width: 100vw;
+}
+
+#login {
+    margin: auto;
+    background-color: pink;
+}
+
+#output {
+    padding: 50px;
+    background-color:  #F8988B;
+}
